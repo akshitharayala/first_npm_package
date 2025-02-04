@@ -1,0 +1,24 @@
+{
+  "name": "package_akshitha",
+  "version": "1.0.0",
+  "description": "My Npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshitharayala/first_npm_package.git"
+  },
+  "keywords": [
+    "demo",
+    "npm",
+    "package"
+  ],
+  "author": "akshitharayala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshitharayala/first_npm_package/issues"
+  },
+  "homepage": "https://github.com/akshitharayala/first_npm_package#readme"
+}
